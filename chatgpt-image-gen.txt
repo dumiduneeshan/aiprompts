@@ -1,0 +1,2 @@
+---- realistic square diorama poster ----
+Create a stylish hyper-realistic square diorama poster of [city name], as if the city is precisely cut out with a chunk of earth beneath it. The cross-section reveals detailed layers of soil, with crumbled dirt and debris scattered naturally around the diorama. A sleek white 3D text of '[city name]' blends seamlessly into the landscape. The background is clean white, illuminated by soft, diffused daylight. The image should look like a high-quality DSLR photograph - sharp, vivid, and ultra-real
