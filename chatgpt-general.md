@@ -23,3 +23,7 @@ I am writing a report on [insert subject]." Conduct thorough research and write 
 <br>**Strengthen your learning by testing yourself**<br>
 I am learning about [insert topic] right now. Put my knowledge to the test by asking me a series of questions. Provide me with better answers to close any knowledge gaps in my responses.
 <br>
+
+<br>**Summarize long documents and articles**<br>
+Summarize the text below and give me a list of bullet points with key insights and the most important facts. [insert text]
+<br>
